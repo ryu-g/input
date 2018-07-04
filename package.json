@@ -1,0 +1,19 @@
+{
+  "name": "input",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.pug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryu-g/input.git"
+  },
+  "author": "ryu-g",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryu-g/input/issues"
+  },
+  "homepage": "https://github.com/ryu-g/input#readme"
+}
