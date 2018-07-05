@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryu-g/input/issues"
   },
-  "homepage": "https://github.com/ryu-g/input#readme"
+  "homepage": "https://github.com/ryu-g/input#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.1"
+  }
 }
